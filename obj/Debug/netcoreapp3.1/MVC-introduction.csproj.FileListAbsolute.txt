@@ -1,0 +1,13 @@
+C:\Users\adm\Desktop\MVC-introduction\bin\Debug\netcoreapp3.1\MVC-introduction.exe
+C:\Users\adm\Desktop\MVC-introduction\bin\Debug\netcoreapp3.1\MVC-introduction.deps.json
+C:\Users\adm\Desktop\MVC-introduction\bin\Debug\netcoreapp3.1\MVC-introduction.runtimeconfig.json
+C:\Users\adm\Desktop\MVC-introduction\bin\Debug\netcoreapp3.1\MVC-introduction.runtimeconfig.dev.json
+C:\Users\adm\Desktop\MVC-introduction\bin\Debug\netcoreapp3.1\MVC-introduction.dll
+C:\Users\adm\Desktop\MVC-introduction\bin\Debug\netcoreapp3.1\MVC-introduction.pdb
+C:\Users\adm\Desktop\MVC-introduction\obj\Debug\netcoreapp3.1\MVC-introduction.csprojAssemblyReference.cache
+C:\Users\adm\Desktop\MVC-introduction\obj\Debug\netcoreapp3.1\MVC-introduction.AssemblyInfoInputs.cache
+C:\Users\adm\Desktop\MVC-introduction\obj\Debug\netcoreapp3.1\MVC-introduction.AssemblyInfo.cs
+C:\Users\adm\Desktop\MVC-introduction\obj\Debug\netcoreapp3.1\MVC-introduction.csproj.CoreCompileInputs.cache
+C:\Users\adm\Desktop\MVC-introduction\obj\Debug\netcoreapp3.1\MVC-introduction.dll
+C:\Users\adm\Desktop\MVC-introduction\obj\Debug\netcoreapp3.1\MVC-introduction.pdb
+C:\Users\adm\Desktop\MVC-introduction\obj\Debug\netcoreapp3.1\MVC-introduction.genruntimeconfig.cache
