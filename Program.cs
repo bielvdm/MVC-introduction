@@ -10,9 +10,11 @@ namespace MVC_introduction
         static void Main(string[] args)
         {
            
-            Produtocontroller controle = new Produtocontroller();
-            controle.Cadastrar();
-            controle.ListarProdutos();
+            // Produtocontroller controle = new Produtocontroller();
+            // controle.Cadastrar();
+            // controle.ListarProdutos();
+
+            Cliente cliente = new Cliente ();
         }
     }
 }
